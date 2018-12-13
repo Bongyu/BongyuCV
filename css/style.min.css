@@ -28,6 +28,10 @@ a {
     -webkit-text-decoration-skip: objects;
 
 }
+a {
+    color: #7286bb;
+    text-decoration: none;
+}
 header.Home{
  text-align:center;
  color:#fff;
